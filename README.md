@@ -1,2 +1,2 @@
 **Gefest** [Перейти](https://vovako.github.io/gefest/)
-**Gitpsolit** [Перейти](https://vovako.github.io/gitpsolit/)
+**Gipsolit** [Перейти](https://vovako.github.io/gipsolit/)
